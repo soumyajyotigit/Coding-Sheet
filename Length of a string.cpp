@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     int count=0;
     string str;
-    string temp="";
+//     string temp="";
     getline(cin,str);
     // for(int i=0;i<str.size();i++){
     //     count++;
